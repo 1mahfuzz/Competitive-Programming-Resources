@@ -2,7 +2,7 @@
  *  author: mahfuzz
  *  created: 23.09.2019
 **/
-
+//http://lightoj.com/volume_showproblem.php?problem=1214
 #include <bits/stdc++.h>
 using namespace std;
 #define debug(x) cout << '>' << #x << ':' << x << endl;
